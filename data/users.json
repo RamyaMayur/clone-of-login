@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "userName": "Ramya",
+      "mailid": "ramyaachar1998@gmail.com",
+      "password": "Ramya@2110",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "userName": "Ray",
+      "mailid": "rayachar1998@gmail.com",
+      "password": "Ramya@",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "userName": "",
+      "mailid": "",
+      "password": "",
+      "gender": "",
+      "id": 3
+    },
+    {
+      "userName": "Ramya",
+      "mailid": "ramya@gmail.com",
+      "password": "Ramya",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "userName": "",
+      "mailid": "",
+      "password": "",
+      "gender": "",
+      "id": 5
+    },
+    {
+      "userName": "Ramya",
+      "mailid": "ramya@gmail.com",
+      "password": "Ramya",
+      "gender": "Female",
+      "id": 6
+    }
+  ]
+}
